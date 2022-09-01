@@ -1,0 +1,153 @@
+/*
+Theme Name: My Theme
+Author: Hostinger
+Author URI: http://www.hostinger.com/tutorials
+Description: My first responsive HTML5 theme
+Version: 1.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+* {
+    box-sizing: border-box;
+  }
+  body {
+     
+     
+      height: 100%;
+      width: 100%;
+      font-family: Helvetica;
+  }
+ul li {display : inline;}
+  .my-logo{opacity: 0.5;}
+
+footer {
+  width: 100%;
+  padding-left: 1%;
+  margin-bottom: 8px;
+  background-color: pink;
+  border: 1px solid #d2f314;
+  opacity: 0.7;
+  margin-top: 20px;
+}
+body > header > h1 > a {
+color: #ffffff;
+font-weight: 400;
+opacity: 0.7;
+}
+article > header {
+
+    opacity: 0.5;
+}
+.article-loop {
+  opacity: 0.9;
+  background: linear-gradient(rgba(145, 7, 243, 0.299), rgb(213, 136, 136));
+}
+
+a {
+  text-decoration: none;
+}
+/* 'Margin: 0 auto' centers block content on the page */
+.wrap {
+  width: 99%;
+  margin: 0 auto;
+}
+.content-area {
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  
+  margin-top: 20px;
+}
+
+.content-area2 {
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+ 
+  margin-top: 20px;
+}
+.content-thin {
+    width: 745px;
+}
+.content-full-width {
+    width: 100%;
+}
+
+
+
+.primary-sidebar {
+  width: 33%;
+  padding: 1%;
+  vertical-align: top;
+  background: linear-gradient(rgba(145, 7, 243, 0.299), rgb(213, 136, 136));
+  opacity: 0.9;
+  float: right;
+  margin: 5px;
+  border-radius: 4px;
+  height: 358px;
+}
+.article-loop {
+    width: 45%;
+    text-align: left;
+    margin: 5px;
+    padding: 10px;
+    float: right;
+}
+.article-full {
+  width: 99%;
+  padding: 1%;
+}
+.article-loop,
+.article-full {
+  display: inline-block;
+  vertical-align: top;
+  background-color: #FFF;
+  border-radius: 4px;
+  margin-bottom: 4px;
+}
+
+p {
+  color: #0000ee;
+  font-family:  Helvetica, sans-serif;
+  
+}
+
+.header-pic {
+  background-image: url(./media/basic-pics/rainy-weather-❤-4k-hd-desktop-wallpaper-for-4k-ultra-hd-tv.jpg);
+  height: 100vh;
+  width: 100%;
+}
+
+.main-pic {
+  background-image: url(./media/basic-pics/railay-beach-thailand-4k-wallpaper.jpg);
+  height: 100vh;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+  padding-top: 20rem;
+  font-size: 7rem !important;
+  color: aquamarine;
+  text-shadow: 2px 2px 2px #333;
+  font-weight: bold;
+  letter-spacing: .2rem;
+  text-transform: uppercase;
+  font-family: 'Righteous', cursive;
+}
+
+h2 {
+   
+  text-align: center;
+  padding-top: 20rem;
+  font-size: 7rem !important;
+  color: aquamarine;
+  text-shadow: 2px 2px 2px #333;
+  font-weight: bold;
+  letter-spacing: .2rem;
+  text-transform: uppercase;
+  font-family: 'Righteous', cursive;
+}
+
