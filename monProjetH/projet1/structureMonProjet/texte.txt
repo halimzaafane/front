@@ -1,0 +1,8 @@
+Projet S7 ( Site de la SérénityS7 structure multi-gamming )
+
+*Accueil: 
+	-Choix du jeu représenté par une photo de ce dernier
+		-Pour fifa, un onglet Club pro et un autre Coop (Fut ou saison);
+		-Club: Résultat classement, calendrier compets ,Stats (buteurs, passeurs), équipe de la semaine, effectif( GT et postes).
+		-Coop Fut et Saison ( mis en relation de joueurs pour faire de la coop ds les 2 modes par le biais d'un chat sur cet onglet).
+		-News (infos, maj, astuces ...)

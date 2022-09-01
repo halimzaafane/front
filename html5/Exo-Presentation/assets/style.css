@@ -1,0 +1,16 @@
+table, th, td {
+    border: 6px solid rgb(187, 24, 24);
+    border-collapse: collapse;
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h1{
+    color:brown;
+    font-size: 50px;
+    font-family: fantasy;
+}
+h2{
+    color:aqua;
+    font-size: 40px;
+}

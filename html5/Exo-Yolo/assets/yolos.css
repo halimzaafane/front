@@ -1,0 +1,100 @@
+      /*desktop */
+
+.boxg{
+    background: #f2f7fd;
+    float: left;
+    width: 50%;
+    height: 1100px;
+    
+
+}
+
+.boxd{
+    background: #0c0c0c;
+    float: right;
+    width: 50%;
+    height: 1100px;
+}
+
+h3{
+    
+    font-size: 40px;
+    
+}
+ h1{
+     
+     color: purple;
+     font-size: 80px;
+    
+ }
+
+
+.text{
+    margin-top: 400px;
+    margin-left: 250px;
+    position: relative;
+    width: 100%;
+    font-family: Raleway;
+}
+
+.image{
+    padding-left: 100px;
+    padding-top: 200px;
+}
+
+@media only screen and (max-width: 500px){
+      /*smartphone */
+    h1{
+     
+        color: rgb(30, 219, 39);
+        font-size: 80px;
+       
+       
+    }
+
+    .boxg{
+        background: #f2f7fd;
+        float: left;
+        width: 100%;
+        height: auto;
+        
+        
+    
+    }
+    
+    .boxd{
+        background: #0c0c0c;
+        /*float: left;*/
+        width: 100%;
+        height: auto;
+        
+        
+    }
+.image {
+   
+}
+
+
+
+    
+
+}
+
+
+
+
+@media only screen and (min-width: 501px) and (max-width: 800px ){
+          /* tablette  */
+
+    h1{
+     
+        color: rgb(63, 22, 212);
+        font-size: 80px;
+       
+    }
+
+
+
+
+    
+}

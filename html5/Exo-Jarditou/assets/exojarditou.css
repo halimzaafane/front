@@ -1,0 +1,19 @@
+.top{
+    width: 100%;
+}
+.top2{
+    float: right;
+    margin: auto 0;
+}
+.img-fluid{
+    width: 100%;
+}
+#nom{
+    width: 100%;
+}
+#prenom{
+    width: 100%;
+}
+#date{
+    width: 100%;
+}
