@@ -18,7 +18,7 @@ window.addEventListener('scroll', function() {
 var typed = new Typed(".typed", {
   strings: [
     "Bonjour à toutes et à tous, je me présente je m'apelle Halim",
-    "Aprés une carrière de 20 ans en tant que Menuisier Agenceur, j'ai décidé de me lancer à fond dans l'apprentissage du code, depuis le mois de mai 2022 j'ai intégré la formation de Web Dév et Dév d'Application à l'Afpa où j'apprend différents langages Front et Back End (tels que CSS, Javascript, PHP ...) afin de devenir le plus rapidement possible développeur.Plus qu'un avenir professionnel, je me suis découvert une passion, celle de coder. ",
+    "Aprés une carrière de 20 ans en tant que Menuisier Agenceur, j'ai décidé de me lancer à fond dans l'apprentissage du code, depuis le mois de mai 2022 j'ai intégré la formation de Web Dév et Dév Mobile à l'Afpa où j'apprend différents languages Front et Back End (tels que HTML, CSS, Javascript, PHP MySQL...) afin de devenir le plus rapidement possible développeur.Plus qu'un avenir professionnel, je me suis découvert une passion, celle de coder. ",
   ],
   typeSpeed: 35,
 });
